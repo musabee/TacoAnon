@@ -81,6 +81,8 @@ var linkMenu = [
   [svgMore,                    "yellow",                                      "-HEAD-"], // Other
   ["Amazon",                   "https://amazon.ca",""],
   ["Dropbox",                  "https://dropbox.com",""],
+  ["TD EasyWeb",               "https://authentication.td.com/uap-ui/index.html?consumer=easyweb&locale=en_CA#/login/easyweb-getting-started",""],
+  ["TD WebBroker",             "https://wb.authentication.td.com/uap-ui/index.html?consumer=webbroker&locale=en_CA#/login/webbroker-getting-started",""],
 ];
 // DID I FORGET TO MENTION?! THE DEMO LINKS DO NOTHING!
 
