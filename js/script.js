@@ -53,7 +53,7 @@ var linkMenu = [
   
   [svgSocial,                  "green",                                       "-HEAD-"], // Media
   ["YouTube",                  "https://youtube.com",""],
-  ["Facebook",                 "https://facebook.om",""],
+  ["Facebook",                 "https://facebook.com",""],
   ["Twitter",                  "https://twitter.com",""],
   ["Twitch",                   "https://twitch.com",""],
   ["9Gag",                     "https://9gag.com",""],
