@@ -48,7 +48,7 @@ var svgTrash   = "<svg style=\"width:24px;height:24px\" xmlns=\"http://www.w3.or
 var linkMenu = [
   [svgTrash,                   "blue",                                        "-HEAD-"], // Anime
   ["Horriblesubs",             "https://horriblesubs.info",""],
-  ["Mangadex",                 "https://mangadex.com",""],
+  ["Mangadex",                 "https://mangadex.org",""],
   ["Nyaa",                     "https://nyaa.si",""],
   
   [svgSocial,                  "green",                                       "-HEAD-"], // Media
